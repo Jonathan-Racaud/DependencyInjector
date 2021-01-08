@@ -1,0 +1,6 @@
+FileVersion = 1
+
+[Project]
+Name = "DependencyInjector"
+TargetType = "BeefLib"
+StartupObject = "DependencyInjector.Program"
